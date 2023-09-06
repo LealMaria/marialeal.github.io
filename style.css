@@ -1,0 +1,62 @@
+*{
+    font-family: 'Manrope', sans-serif;
+}
+
+a{
+    color: black;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+
+}
+
+h1{
+    color: black;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    font-style: italic;
+    padding-left: 90px;
+}
+
+h2{
+    color: black;
+    font-family:'Manrope', sans-serif;
+    font-weight: 800;
+    font-size:  120px; 
+    font-style: bold;
+    padding-left: 180px;
+   margin-top: 15px;
+   margin-bottom: 0px;
+}
+
+h3{
+    color: black;
+    font-family:'Manrope', sans-serif;
+    font-weight: 800;
+    font-size: 120px;
+    font-style: bold;
+    padding-left: 200px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+h4{
+    color: black;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    font-style: italic;
+    padding-left: 500px;
+
+}
+
+
+.Icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;    
+    align-items: center;
+}
